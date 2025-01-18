@@ -1,0 +1,7 @@
+C:\Users\Пользователь\Desktop\studytime\2курс\СЯТП\CS_SET\CS_SET\bin\Debug\CS_SET.exe.config
+C:\Users\Пользователь\Desktop\studytime\2курс\СЯТП\CS_SET\CS_SET\bin\Debug\CS_SET.exe
+C:\Users\Пользователь\Desktop\studytime\2курс\СЯТП\CS_SET\CS_SET\bin\Debug\CS_SET.pdb
+C:\Users\Пользователь\Desktop\studytime\2курс\СЯТП\CS_SET\CS_SET\obj\Debug\CS_SET.csprojAssemblyReference.cache
+C:\Users\Пользователь\Desktop\studytime\2курс\СЯТП\CS_SET\CS_SET\obj\Debug\CS_SET.exe
+C:\Users\Пользователь\Desktop\studytime\2курс\СЯТП\CS_SET\CS_SET\obj\Debug\CS_SET.pdb
+C:\Users\Пользователь\Desktop\studytime\2курс\СЯТП\CS_SET\CS_SET\obj\Debug\CS_SET.csproj.CoreCompileInputs.cache
